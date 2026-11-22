@@ -384,7 +384,7 @@
           "id": "__inre_aparicion__",
           "name": "inre-aparicion",
           "parameters": {
-            "cubo": 0.74,
+            "cubo": 0.743,
             "demora": 0,
             "esGltf": false,
             "esTextura": true,
@@ -421,7 +421,7 @@
         1
       ],
       "scale": [
-        1.02,
+        1.034,
         1.323,
         1
       ],
