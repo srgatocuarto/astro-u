@@ -384,7 +384,7 @@
           "id": "__inre_aparicion__",
           "name": "inre-aparicion",
           "parameters": {
-            "cubo": 0.717,
+            "cubo": 0.576,
             "demora": 0,
             "esGltf": false,
             "esTextura": true,
@@ -410,19 +410,19 @@
       "order": 0.9546583899215711,
       "parentId": "cd605e0c-1bf5-46d7-b103-018fa6f86add",
       "position": [
+        0.005,
         0,
-        0,
-        0.008000000000000004
+        0.008
       ],
       "rotation": [
         0,
         0,
         0,
-        1.0000000000000002
+        1
       ],
       "scale": [
-        0.963,
-        1.276,
+        0.813,
+        0.79,
         1
       ],
       "videoControls": {
