@@ -63,7 +63,7 @@
           "id": "__inre_aparicion__",
           "name": "inre-aparicion",
           "parameters": {
-            "cubo": 0.664,
+            "cubo": 0.746,
             "demora": 0,
             "esGltf": false,
             "esTextura": true,
@@ -90,7 +90,7 @@
       "parentId": "44802f08-e6f9-44d0-82a4-a28b4258870b",
       "position": [
         0,
-        -0.091,
+        0.01,
         0.008
       ],
       "rotation": [
@@ -101,7 +101,7 @@
       ],
       "scale": [
         1,
-        1,
+        1.369,
         1
       ],
       "videoControls": {
@@ -199,7 +199,7 @@
           "id": "__inre_aparicion__",
           "name": "inre-aparicion",
           "parameters": {
-            "cubo": 0.664,
+            "cubo": 0.74,
             "demora": 0,
             "esGltf": false,
             "esTextura": true,
@@ -226,7 +226,7 @@
       "parentId": "2dbb2fb4-1881-461d-8b3c-634f221a7e05",
       "position": [
         0,
-        -0.092,
+        -0.003,
         0.008
       ],
       "rotation": [
@@ -237,7 +237,7 @@
       ],
       "scale": [
         1,
-        1,
+        1.343,
         1
       ],
       "videoControls": {
@@ -251,7 +251,7 @@
           "id": "__inre_aparicion__",
           "name": "inre-aparicion",
           "parameters": {
-            "cubo": 0.664,
+            "cubo": 0.742,
             "demora": 0,
             "esGltf": false,
             "esTextura": true,
@@ -278,7 +278,7 @@
       "parentId": "cb3fd5bb-eac4-44b9-9a02-89004a261954",
       "position": [
         0,
-        -0.042,
+        -0.002,
         0.008
       ],
       "rotation": [
@@ -289,7 +289,7 @@
       ],
       "scale": [
         1,
-        1,
+        1.351,
         1
       ],
       "videoControls": {
@@ -330,9 +330,9 @@
         0.5961552434053643
       ],
       "scale": [
-        2.041,
-        2.044,
-        0.839
+        2.715,
+        2.699,
+        0.731
       ]
     },
     "7ef991c7-a9b9-4ea4-b4b3-d16c5f19fada": {
@@ -370,7 +370,7 @@
           "id": "__inre_aparicion__",
           "name": "inre-aparicion",
           "parameters": {
-            "cubo": 0.735,
+            "cubo": 0.738,
             "demora": 0,
             "esGltf": false,
             "esTextura": true,
@@ -408,7 +408,7 @@
       ],
       "scale": [
         1.007,
-        1.314,
+        1.326,
         1
       ],
       "videoControls": {
@@ -422,7 +422,7 @@
           "id": "__inre_aparicion__",
           "name": "inre-aparicion",
           "parameters": {
-            "cubo": 0.672,
+            "cubo": 0.74,
             "demora": 0,
             "esGltf": false,
             "esTextura": true,
@@ -445,22 +445,22 @@
         }
       },
       "name": "Escena1",
-      "order": 0.5299275898029652,
+      "order": 0.7749380493302143,
       "parentId": "cd605e0c-1bf5-46d7-b103-018fa6f86add",
       "position": [
         0,
         0,
-        0.008
+        0.008000000000000004
       ],
       "rotation": [
         0,
         0,
         0,
-        1
+        1.0000000000000002
       ],
       "scale": [
-        0.977,
-        1.059,
+        1.017,
+        1.328,
         1
       ],
       "videoControls": {
@@ -530,7 +530,7 @@
           "id": "__inre_aparicion__",
           "name": "inre-aparicion",
           "parameters": {
-            "cubo": 0.592,
+            "cubo": 0.74,
             "demora": 0,
             "esGltf": false,
             "esTextura": true,
@@ -557,7 +557,7 @@
       "parentId": "012a6476-24b1-476d-a69f-cc4071f11b17",
       "position": [
         0,
-        -0.018,
+        0.003,
         0.008
       ],
       "rotation": [
@@ -567,8 +567,8 @@
         1
       ],
       "scale": [
-        0.8,
-        0.875,
+        0.996,
+        1.347,
         1
       ],
       "videoControls": {
