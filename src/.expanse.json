@@ -422,7 +422,7 @@
           "id": "__inre_aparicion__",
           "name": "inre-aparicion",
           "parameters": {
-            "cubo": 0.74,
+            "cubo": 0.75,
             "demora": 0,
             "esGltf": false,
             "esTextura": true,
@@ -450,17 +450,17 @@
       "position": [
         0,
         0,
-        0.008000000000000004
+        0.008
       ],
       "rotation": [
         0,
         0,
         0,
-        1.0000000000000002
+        1
       ],
       "scale": [
-        1.017,
-        1.328,
+        2.107,
+        2.432,
         1
       ],
       "videoControls": {
