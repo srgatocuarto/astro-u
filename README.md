@@ -2,7 +2,7 @@
 
 Experiencia de realidad aumentada creada con Zence Inverse Reality.
 
-**Modo:** 3D, sin realidad aumentada
+**Modo:** World Effects (anclaje al suelo con SLAM)
 **Hosting:** GitHub Pages
 **En vivo:** https://srgatocuarto.github.io/astro-u/
 

@@ -537,11 +537,49 @@
         "loop": true,
         "paused": false
       }
+    },
+    "e61b0776-1551-41d2-b483-5ff1f0ed5f19": {
+      "camera": {
+        "type": "perspective",
+        "fov": 60,
+        "nearClip": 0.01,
+        "farClip": 1000,
+        "xr": {
+          "xrCameraType": "world",
+          "phone": "AR",
+          "desktop": "disabled",
+          "headset": "disabled",
+          "direction": "back"
+        }
+      },
+      "components": {},
+      "geometry": null,
+      "id": "e61b0776-1551-41d2-b483-5ff1f0ed5f19",
+      "material": null,
+      "name": "Cámara",
+      "order": 9.5,
+      "parentId": "7b1e5cd5-f61a-46e7-a5ae-50f1f0b0d37f",
+      "position": [
+        -0.002,
+        0.021,
+        -0.029
+      ],
+      "rotation": [
+        -0.6532814824381878,
+        -0.2705980500730994,
+        -0.27059805007309934,
+        0.653281482438188
+      ],
+      "scale": [
+        -1.696,
+        -1.455,
+        -0.022
+      ]
     }
   },
   "spaces": {
     "7b1e5cd5-f61a-46e7-a5ae-50f1f0b0d37f": {
-      "activeCamera": "",
+      "activeCamera": "e61b0776-1551-41d2-b483-5ff1f0ed5f19",
       "id": "7b1e5cd5-f61a-46e7-a5ae-50f1f0b0d37f",
       "name": "Espacio principal"
     }
