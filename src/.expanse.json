@@ -297,44 +297,6 @@
         "paused": false
       }
     },
-    "65f2aac8-a62c-41d3-bcd3-7618d79a7d5c": {
-      "camera": {
-        "type": "perspective",
-        "fov": 60,
-        "nearClip": 0.01,
-        "farClip": 1000,
-        "xr": {
-          "xrCameraType": "world",
-          "phone": "AR",
-          "desktop": "disabled",
-          "headset": "disabled",
-          "direction": "back"
-        }
-      },
-      "components": {},
-      "geometry": null,
-      "id": "65f2aac8-a62c-41d3-bcd3-7618d79a7d5c",
-      "material": null,
-      "name": "Cámara",
-      "order": 0.5,
-      "parentId": "7b1e5cd5-f61a-46e7-a5ae-50f1f0b0d37f",
-      "position": [
-        -0.002,
-        0.407,
-        0.074
-      ],
-      "rotation": [
-        0.6984222636487392,
-        0.300217291762896,
-        -0.2582147267810533,
-        0.5961552434053643
-      ],
-      "scale": [
-        2.715,
-        2.699,
-        0.731
-      ]
-    },
     "7ef991c7-a9b9-4ea4-b4b3-d16c5f19fada": {
       "components": {},
       "geometry": null,
@@ -422,7 +384,7 @@
           "id": "__inre_aparicion__",
           "name": "inre-aparicion",
           "parameters": {
-            "cubo": 0.75,
+            "cubo": 0.717,
             "demora": 0,
             "esGltf": false,
             "esTextura": true,
@@ -445,22 +407,22 @@
         }
       },
       "name": "Escena1",
-      "order": 0.7749380493302143,
+      "order": 0.9546583899215711,
       "parentId": "cd605e0c-1bf5-46d7-b103-018fa6f86add",
       "position": [
         0,
         0,
-        0.008
+        0.008000000000000004
       ],
       "rotation": [
         0,
         0,
         0,
-        1
+        1.0000000000000002
       ],
       "scale": [
-        2.107,
-        2.432,
+        0.963,
+        1.276,
         1
       ],
       "videoControls": {
@@ -575,11 +537,49 @@
         "loop": true,
         "paused": false
       }
+    },
+    "e61b0776-1551-41d2-b483-5ff1f0ed5f19": {
+      "camera": {
+        "type": "perspective",
+        "fov": 60,
+        "nearClip": 0.01,
+        "farClip": 1000,
+        "xr": {
+          "xrCameraType": "world",
+          "phone": "AR",
+          "desktop": "disabled",
+          "headset": "disabled",
+          "direction": "back"
+        }
+      },
+      "components": {},
+      "geometry": null,
+      "id": "e61b0776-1551-41d2-b483-5ff1f0ed5f19",
+      "material": null,
+      "name": "Cámara copia",
+      "order": 10.5,
+      "parentId": "7b1e5cd5-f61a-46e7-a5ae-50f1f0b0d37f",
+      "position": [
+        -0.002,
+        0.407,
+        -0.029
+      ],
+      "rotation": [
+        -0.6532814824381878,
+        -0.2705980500730994,
+        -0.27059805007309934,
+        0.653281482438188
+      ],
+      "scale": [
+        -0.963,
+        -1.276,
+        -1
+      ]
     }
   },
   "spaces": {
     "7b1e5cd5-f61a-46e7-a5ae-50f1f0b0d37f": {
-      "activeCamera": "65f2aac8-a62c-41d3-bcd3-7618d79a7d5c",
+      "activeCamera": "e61b0776-1551-41d2-b483-5ff1f0ed5f19",
       "id": "7b1e5cd5-f61a-46e7-a5ae-50f1f0b0d37f",
       "name": "Espacio principal"
     }
